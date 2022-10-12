@@ -14,4 +14,4 @@ elif third > one and third > second:
     print("third id oldest ")
 
 else: 
-    print("all the three ages are different.")
+    print("all the three ages are same.")
